@@ -1,5 +1,5 @@
-# Realtime-Chat
-Realtime-Chat project. Dev with Node.js, Electron, Socket.io
+# Realtime-Collaboration-Desktop-App
+Realtime-Collaboration-Desktop-App project. Dev with Node.js, Electron, Socket.io
 
 ## Project Planner & Developer
 (KR) 
