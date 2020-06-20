@@ -31,6 +31,6 @@ Covid-19 has done a lot of damage to your nightly activities. The project aims t
 ## Specification
 |No|Framework Name|Version|Note|
 |--|---|---|---|
-|1|테스트2|테스트3||
-|2|테스트2|테스트3||
-|3|테스트2|테스트3||
+|1|NodeJS|v14.4.0||
+|2|Express|v6.14.5||
+|3|MySQL|v6.14.5||
