@@ -27,3 +27,10 @@ Covid-19 has done a lot of damage to your nightly activities. The project aims t
 (KR) 본 프로젝트는 서로의 화면을 공유할 수 있는 '화면공유 기능'과 '채팅 기능'을 탑재하는 것을 목표로 한다. (2020년 06월 20일 기준)  
 
 (EN) The project aims to be equipped with a "screen sharing function" and a "chatting function" that can share each other's screens. (as of June 20, 2020)
+
+## Specification
+|No|Framework Name|Version|Note|
+|--|---|---|---|
+|1|테스트2|테스트3||
+|2|테스트2|테스트3||
+|3|테스트2|테스트3||
